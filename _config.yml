@@ -69,5 +69,5 @@ theme: landscape
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:liuchunlong/liuchunlong.github.io.git
- branch: master
+  repo: https://github.com/liuchunlong/liuchunlong.github.io.git
+branch: master
