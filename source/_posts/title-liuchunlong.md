@@ -1,5 +1,5 @@
-title: title_liuchunlong
-date: 2015-12-08 19:25:06
+title: 我的测试文章
+date: 2015-04-08 19:25:06
 category: 日记
 
 tags: 
@@ -19,6 +19,8 @@ tags:
 使用 * 和 ** 表示斜体和粗体。
 
 示例：
+
+[hello-world](/hello-world "my title")
 
 这是 *斜体*，这是 **粗体**。
 
