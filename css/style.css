@@ -1077,6 +1077,7 @@ a {
 }
 .article-entry pre code {
   font-size: 14px;
+  word-wrap: break-word;
 }
 .article-entry table {
   width: 100%;
